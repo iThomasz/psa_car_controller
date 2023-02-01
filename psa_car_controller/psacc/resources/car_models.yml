@@ -122,11 +122,11 @@
   max_elec_consumption: 70
   max_fuel_consumption: 30
 - !CarModel
-  name: '208'
-  battery_power: 0
-  fuel_capacity: 44
+  name: 'C3'
+  battery_power: 60
+  fuel_capacity: 45
   abrp_name:
-  reg: VF3CCBHY6H.*
+  reg: VF7SXHNPYL*
   max_elec_consumption: 70
   max_fuel_consumption: 30
 - !CarModel
